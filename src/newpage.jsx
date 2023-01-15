@@ -9,7 +9,10 @@ const newpage = () => {
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, eligendi
       autem. Autem officiis asperiores, voluptate id quaerat voluptates maiores
       harum repellat laboriosam consequatur consequuntur a dolores magnam fugit
-      cumque ipsum.{" "}
+      cumque ipsum Lorem ipsum dolor sit amet consectetur adipisicing elit.
+      Repellendus ipsum nihil numquam perferendis illo magnam necessitatibus
+      unde, vel, consequatur distinctio maiores esse? Similique, velit
+      voluptatibus. Totam labore minima porro consequatur.
     </div>
   );
 };

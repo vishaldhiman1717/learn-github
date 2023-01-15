@@ -9,7 +9,9 @@ const newpage = () => {
       earum optio ab? Lorem, ipsum dolor sit amet consectetur adipisicing elit.
       Quasi est saepe quod itaque magnam architecto sequi odit necessitatibus
       commodi. Eum voluptate reiciendis ab id libero incidunt veritatis
-      molestias perspiciatis nostrum!
+      molestias perspiciatis nostrum! Lorem ipsum dolor sit amet consectetur
+      adipisicing elit. Deleniti beatae quis a, ratione dolorum esse ab aliquam
+      vitae accusamus veritatis.
     </div>
   );
 };
